@@ -1,9 +1,8 @@
 <h1>COMANDOS</h1>
 
->Status do projeto: Em desenvolvimento
-
->Para rodar esse projeto, execute:
+>Comandos do curso:
 
 ```
   repo.new
+  . => abri o VS Code Web
 ```
